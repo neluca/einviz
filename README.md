@@ -1,0 +1,2 @@
+# ein
+Einstein-Inspired Notation
